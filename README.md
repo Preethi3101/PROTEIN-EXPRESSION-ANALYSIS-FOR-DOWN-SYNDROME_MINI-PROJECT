@@ -1,0 +1,2 @@
+# PROTEIN-EXPRESSION-ANALYSIS-FOR-DOWN-SYNDROME_MINI-PROJECT
+Several supervised machine learning methods like Logistic Regression, Random Forest classifier, k-Nearest Neighbour and Voting classifier were used to predict the type of mouse whether its genotype is control or trisomic, treatment given is memantine or saline and behavior is context shock or shock context and the Analysis of Variance (ANOVA) is used to identify which protein(s) are critical to learning ability after being exposed to context fear conditioning (CFC)
